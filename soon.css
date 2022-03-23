@@ -1,0 +1,70 @@
+body{
+    background-image:url(./images/back.jpg);
+}
+    
+
+
+h1{
+    color:white;
+    text-align:left;
+    margin-left: 50px;
+    margin-top: 70px;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+label{
+  margin-top: 10px; 
+  color:white;
+  margin-left: 300px;
+  font-size: 20px;
+  
+}
+
+
+.vertical{
+    border-right: 2px solid;
+    height: 200px;
+    position:absolute;
+    right: 75%;
+    color: white;
+    margin-top:30px;
+    
+
+}
+
+p{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight:5px;
+    margin-left: 300px;
+    margin-top:0px;
+    padding-bottom: 20px;
+}
+
+
+
+input{
+    width:40%;
+    text-align:center;
+    margin-top:0px;
+    margin-left: 300px;
+    padding: 8px 10px;
+    align-self: auto;
+    
+    
+}
+
+button{
+    background-color:blue;
+    color: white;
+    text-transform:uppercase;
+    padding:8px 10px;
+   }
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
